@@ -1,6 +1,8 @@
+<img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg">
+
 # 🎃 HacktoberFest Starter Project 🎃
 
-This is a beginner friendly repository made specifically for Hacktoberfest
+This is a beginner friendly repository made specifically for Hacktoberfest.
 
 ## What is Hacktoberfest?
 
@@ -31,4 +33,4 @@ git push origin branch-name
 - Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
 - Wait for your PR review and merge approval!
 - **Star this repository** 
-- Enjoy!
+- Enjoy & Wait for your free swags!
