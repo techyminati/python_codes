@@ -13,7 +13,7 @@ compress_ext =[".zip",".rar",".zst",".gz",".xz"]
 vids_ext=[".mp4",".avi",".mkv"]
 pic_ext=[".png",".jpg",".jpeg"]
 softwares_ext = [".AppImage",".deb"]
-audio_ext=[".mp3",".ogg",".wav","m4a"]
+audio_ext=[".mp3",".ogg",".wav",".m4a"]
 
 #list present working directory files and folders
 #ls = files+folders
