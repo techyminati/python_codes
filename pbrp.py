@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env python3
 # SPDX-License-Identifier: GPL-3.0-or-later
 # (c) eun0115 ( eun ) <gianpaoloestacio5@gmail.com>
 import os

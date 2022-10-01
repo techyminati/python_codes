@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env python3
 # SPDX-License-Identifier: GPL-3.0-or-later
 # (c) TechyMinati ( Aryan Sinha ) <sinha.aryan03@gmail.com>
 import os
