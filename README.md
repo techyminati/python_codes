@@ -1,6 +1,6 @@
-<img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg">
+<img src="https://hacktoberfest.com/_next/static/media/opengraph.da6e44c0.png">
 
-# 🎃 HacktoberFest Starter Project 🎃
+# 🎃 HacktoberFest 2022 Starter Project 🎃
 
 This is a beginner friendly repository made specifically for Hacktoberfest.
 
