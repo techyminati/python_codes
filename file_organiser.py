@@ -13,12 +13,13 @@ compress_ext =[".zip",".rar",".zst",".gz",".xz"]
 vids_ext=[".mp4",".avi",".mkv"]
 pic_ext=[".png",".jpg",".jpeg"]
 softwares_ext = [".AppImage",".deb"]
+audio_ext=[".mp3",".ogg",".wav","m4a"]
 
 #list present working directory files and folders
 #ls = files+folders
 ls=os.listdir()
 def create_dirs():
-	directories = ["Pdfs", "Pictures", "Videos", "compressed_Files", "Documents", "Py_files", "softwares"]
+	directories = ["Pdfs", "Pictures", "Videos", "compressed_Files", "Documents", "Py_files", "softwares", "Audios"]
 	for directory in directories:	
 		if directory in ls:
 			print(f"{directory} directory exists...skipping ")
@@ -47,6 +48,9 @@ for file in ls:
 			print(f"{file} files moved successfully")
 		elif file.endswith(tuple(softwares_ext)):
 			shutil.move(file, "softwares")
+			print(f"{file} files moved successfully")
+		elif file.endswith(tuple(audio_ext)):
+			shutil.move(file, "Audios")
 			print(f"{file} files moved successfully")
 		elif file.endswith(".py"):
 			if file == "organiser.py":
