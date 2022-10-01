@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env python3
 # SPDX-License-Identifier: GPL-3.0-or-later
 # (c) Sarthak Roy (sarthakroy2002) <sarthakroy2002@gmail.com>
 #
