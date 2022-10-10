@@ -21,4 +21,5 @@ def quickSort(arr,l,u):
 arr = [55, 84, 44, 11, 8, 7, 8687, 5, 9, 67, 43, 34]
 
 quickSort(arr,0,len(arr)-1)
+print("Sorted array is:")
 print(arr)
