@@ -16,7 +16,9 @@ if num > 1:
             flag = True
             # break out of loop
             break
-
+else:
+    #n=1 isn't prime
+    flag=True
 # check if flag is True
 if flag:
     print(num, "is not a prime number")

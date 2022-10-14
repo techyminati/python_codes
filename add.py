@@ -10,4 +10,4 @@ n2 = input('Enter second number: ')
 sum = float(n1) + float(n2)
 
 # Display the sum of two numbers
-print('The sum of is {0}'.format(sum))
+print('The sum is {0}'.format(sum))
