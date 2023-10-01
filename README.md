@@ -1,6 +1,6 @@
-<img src="https://hacktoberfest.com/_next/static/media/opengraph.da6e44c0.png">
+<img src="https://raw.githubusercontent.com/MinatiScape/scripts/main/hf10_banner_1032x600.png">
 
-# 🎃 HacktoberFest 2022 Starter Project 🎃
+# 🎃 HacktoberFest 2023 Starter Project 🎃
 
 This is a beginner friendly repository made specifically for Hacktoberfest.
 
