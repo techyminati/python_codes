@@ -1,6 +1,0 @@
-print("Compound Interest Calculator (yearly)")
-p = int(input("Enter the principal amount: "))
-r = float(input("Enter the rate of interest per year (%): "))
-n = float(input("Enter time period (years): "))
-ci = p * ((1+r/100) ** n)
-print("Compound Interest:", round(ci, 2))
