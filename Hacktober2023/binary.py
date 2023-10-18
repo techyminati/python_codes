@@ -41,6 +41,6 @@ def search():
     if c==0:
         print("roll not found")
     f.close()  
-#write()
+write()
 read()
 search()
