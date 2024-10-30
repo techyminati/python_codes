@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MinatiScape/scripts/main/hf10_banner_1032x600.png">
+<img src="https://github.com/user-attachments/assets/94528556-587e-435d-9748-8927546b9612">
 
 # 🎃 HacktoberFest 2024 Starter Project 🎃
 
